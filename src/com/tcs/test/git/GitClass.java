@@ -9,7 +9,11 @@ public class GitClass {
 	public void sub() {
 		System.out.println("sub");
 	}
+	public void multi() {
+		System.out.println("multi");
+	}
 	public void div() {
 		System.out.println("div");
-	}
+	
+}
 }
